@@ -1,0 +1,145 @@
+
+ [{
+    "name":"Piranha",
+    "type":"Fish",
+    "number":"10",
+    "isCarnivore": true,
+    "imageUrl": "https://www.speakcdn.com/assets/2147/12_piranha2.jpg"
+},
+
+{
+
+        "name":"PANAMANIAN GOLDEN FROG",
+        "type":"Amphibians",
+        "number":"12",
+        "isCarnivore": true,
+        "imageUrl":"https://www.nashvillezoo.org/assets/2147/12_golden-frog-katie-gregory.jpg" 
+
+},
+{
+
+    "name":"BLUE POISON ARROW FROG",
+    "type":"Amphibians",
+    "number":"10",
+    "isCarnivore": true,
+    "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_frogs.jpg"
+
+},
+
+{
+
+    "name":"AXOLOTL",
+    "type":"Amphibians",
+    "number":"30",
+    "isCarnivore": true,
+    "imageUrl":"https://www.nashvillezoo.org/assets/2147/12_axolotl-web.jpg" 
+
+},
+
+{
+
+    "name":"AFRICAN CLAWED FROG",
+    "type":"Amphibians",
+    "number":"20",
+    "isCarnivore": true,
+    "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_african-clawed-frog-web.jpg"
+
+},
+{
+
+    "name":"HELLBENDER",
+    "type":"Amphibians",
+    "number":"15",
+    "isCarnivore": true,
+    "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_hellbender-sm.jpg"
+
+},
+{
+
+    "name":"SURINAM TOAD",
+    "type":"Amphibians",
+    "number":"13",
+    "isCarnivore": true,
+    "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_surinam-toad-web.jpg"
+
+},
+{
+
+    "name":"EASTERN DIAMONDBACK RATTLESNAKE",
+    "type":"Reptiles",
+    "number":"100",
+    "isCarnivore": true,
+    "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_eastern_diamondback.jpg"
+
+},
+{
+
+    "name":"CAIMAN LIZARD",
+    "type":"Reptiles",
+    "number":"120",
+    "isCarnivore": true,
+    "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_caiman-lizard-web.jpg"
+
+},
+{
+
+    "name":"DWARF CAIMAN",
+    "type":"Reptiles",
+    "number":"150",
+    "isCarnivore": true,
+    "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_dwarf_caiman_-_sperka.jpg"
+
+},
+{
+
+    "name":"EYELASH PALM PIT VIPER",
+    "type":"Reptiles",
+    "number":"200",
+    "isCarnivore": true,
+    "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_eyelashviper-web.jpg"
+
+},
+{
+
+    "name":"EMERALD TREE BOA",
+    "type":"Reptiles",
+    "number":"170",
+    "isCarnivore": true,
+    "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_emerald-tree-boa-web.jpg"
+
+},
+{
+
+    "name":"GIANT HAITIAN GALLIWASP",
+    "type":"Reptiles",
+    "number":"270",
+    "isCarnivore": true,
+    "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_giant-h-galliwasp-web.jpg"
+
+},
+{
+
+    "name":"INDIGO SNAKE",
+    "type":"Reptiles",
+    "number":"158",
+    "isCarnivore": true,
+    "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_easternindigosnake.jpg"
+
+},
+{
+
+    "name":"NORTHERN COPPERHEAD",
+    "type":"Reptiles",
+    "number":"300",
+    "isCarnivore": true,
+    "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_copperhead-web.jpg"
+
+},
+
+
+]};
+
+
+
+
+
