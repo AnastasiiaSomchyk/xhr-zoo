@@ -1,5 +1,7 @@
-
- [{
+{
+ "animals":  [
+     
+{
     "name":"Piranha",
     "type":"Fish",
     "number":"10",
@@ -134,10 +136,10 @@
     "isCarnivore": true,
     "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_copperhead-web.jpg"
 
-},
+}
 
-
-]};
+]
+}
 
 
 
