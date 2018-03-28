@@ -33,8 +33,8 @@
     "name":"AXOLOTL",
     "type":"Amphibians",
     "number":"30",
-    "isCarnivore": true,
-    "imageUrl":"https://www.nashvillezoo.org/assets/2147/12_axolotl-web.jpg" 
+    "isCarnivore": false,
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wSD1ANo8v3cVxsa4ygNUrtidryfalKGMr9WDx1iS3SW5O6gseA" 
 
 },
 
@@ -61,7 +61,7 @@
     "name":"SURINAM TOAD",
     "type":"Amphibians",
     "number":"13",
-    "isCarnivore": true,
+    "isCarnivore": false,
     "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_surinam-toad-web.jpg"
 
 },
@@ -88,7 +88,7 @@
     "name":"DWARF CAIMAN",
     "type":"Reptiles",
     "number":"150",
-    "isCarnivore": true,
+    "isCarnivore": false,
     "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_dwarf_caiman_-_sperka.jpg"
 
 },
@@ -97,7 +97,7 @@
     "name":"EYELASH PALM PIT VIPER",
     "type":"Reptiles",
     "number":"200",
-    "isCarnivore": true,
+    "isCarnivore": false,
     "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_eyelashviper-web.jpg"
 
 },
@@ -115,7 +115,7 @@
     "name":"GIANT HAITIAN GALLIWASP",
     "type":"Reptiles",
     "number":"270",
-    "isCarnivore": true,
+    "isCarnivore": false,
     "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_giant-h-galliwasp-web.jpg"
 
 },
@@ -133,7 +133,7 @@
     "name":"NORTHERN COPPERHEAD",
     "type":"Reptiles",
     "number":"300",
-    "isCarnivore": true,
+    "isCarnivore": false,
     "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_copperhead-web.jpg"
 
 }
